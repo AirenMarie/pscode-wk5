@@ -43,7 +43,7 @@ c) smallest = min(numbers);
    print("The smallest number is: ", smallest);
    print("The largest number is: ", largest);
 
-d) From (a): 6.0. This is the average determined by dividing the sum of the five numbers (20) by     the length of the array (5): sum(numbers) / len(numbers) = 20 / 5 = 6. 
+d) From (a): 6.0. This is the average determined by dividing the sum of the five numbers (30) by     the length of the array (5): sum(numbers) / len(numbers) = 30 / 5 = 6. 
 
 From (b): "The smallest number: is 2.", "The largest number is: 10." This was found using min() and max(). This can also be found using numbers[0], which is the first number in the array, and numbers[4], which is the fifth number.
 
